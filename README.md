@@ -33,7 +33,7 @@
 
 ### 📌 Projetos em destaque
 
-- 🌊 **[AquAlerta]— App mobile (Flutter) de monitoramento de enchentes em Manaus
+- 🌊 **[AquAlerta]**— App mobile (Flutter) de monitoramento de enchentes em Manaus
 - 🎮 **[Jogo 3D de Terror](https://github.com/OSan-Martin/jogo-3d-unity-cetam)** — Jogo em Unity/C#, projeto final do curso de game dev (CETAM)
 
 ### 📊 Estatísticas
